@@ -1,0 +1,14 @@
+.walrus-showing {
+  width: 80%;
+  display: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+html {
+  text-align: center;
+}
+
+.walrusresize {
+  width: 50%;
+}
