@@ -1,4 +1,4 @@
-.walrus-showing {
+#walrus-showing {
   width: 80%;
   display: none;
   margin-left: auto;
@@ -11,4 +11,13 @@ html {
 
 .walrusresize {
   width: 50%;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
 }
