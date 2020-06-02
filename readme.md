@@ -2,7 +2,7 @@
 
 #### _{Brief description of application}, {Date of current version}_
 
-#### By _**{List of contributors}**_
+#### By _**{Cody Fritz, Jerrod Styrk}**_
 
 ## Description
 
